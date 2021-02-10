@@ -1,0 +1,5 @@
+.idea
+.virtualenv
+__pycache__
+vcr
+tests/vcr

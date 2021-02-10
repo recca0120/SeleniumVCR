@@ -1,0 +1,2 @@
+brotli==1.0.9
+selenium-wire==4.0.4
